@@ -9,4 +9,4 @@
 
 3. Generates a CSV than I loaded in [Google Sheets](https://docs.google.com/spreadsheets/d/1Y3PI0Lhc9iSK4U2jkoPOzjBqGLZYaZFYgF8Qi5vR2Hk/edit?usp=sharing) to create a pretty chart.
 
-![City Remoteness](./assets/City Remoteness.svg "City Remoteness")
+![City Remoteness](assets/City%20Remoteness.svg "City Remoteness")
